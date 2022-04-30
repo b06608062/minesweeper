@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+C:\Users\fanti\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+C:\Users\fanti\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.MainForm.resources
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+C:\Users\fanti\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
